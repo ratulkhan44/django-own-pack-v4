@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+django_hexisol.egg-info/PKG-INFO
+django_hexisol.egg-info/SOURCES.txt
+django_hexisol.egg-info/dependency_links.txt
+django_hexisol.egg-info/requires.txt
+django_hexisol.egg-info/top_level.txt
+hexisol/__init__.py
+hexisol/manage.py
+hexisol/hexisol/__init__.py
+hexisol/hexisol/asgi.py
+hexisol/hexisol/settings.py
+hexisol/hexisol/urls.py
+hexisol/hexisol/wsgi.py
